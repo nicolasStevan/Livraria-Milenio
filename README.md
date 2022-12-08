@@ -4,12 +4,12 @@
 <h3 align="left">🏠 Front Inicial do Sistema</h3>
 
 ###
-<div align="left">
-![image](https://user-images.githubusercontent.com/106289677/206328498-788db6f9-c98c-461b-9cb1-dbd9347a21b7.png)
-</div>
+![image](https://user-images.githubusercontent.com/106289677/206329683-038f419a-db3a-43ed-91b4-aef755bee3f5.png)
+
 
 ###
 <h3 align="left">🧑‍💻 Tecnologias utilizadas</h3>
+
 
 
 ![java](https://user-images.githubusercontent.com/106289677/206329493-cbecd85a-6919-4fe1-9484-244437c13491.png)
