@@ -13,3 +13,25 @@
 
 
 ![java](https://user-images.githubusercontent.com/106289677/206329493-cbecd85a-6919-4fe1-9484-244437c13491.png)
+
+
+
+###
+<h3 align="left">👤 Membros do grupo</h3>
+
+###
+<p align="left">Nicolas Stevan</p>
+
+###
+<p align="left">João Henrique cândido</p>
+
+###
+<p align="left">Icaro Pereira</p>
+
+###
+<p align="left">José Lucas Felix</p>
+
+###
+<p align="left">Leandro Alcântara</p>
+
+###
